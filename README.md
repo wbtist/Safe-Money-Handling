@@ -10,4 +10,4 @@ Ez a weboldal bemutatja, hogyan lehet biztonságosan online vásárolni és okos
 
 ## Hogyan működik?
 
-Nyisd meg a weboldalt: https://wbtist.github.io/Revolut-Safe-Money-Handling/
+Nyisd meg a weboldalt: [https://wbtist.github.io/Revolut-Safe-Money-Handling/](https://wbtist.github.io/Safe-Money-Handling/)
